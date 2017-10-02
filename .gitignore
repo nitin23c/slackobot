@@ -2,3 +2,6 @@ lib
 include
 share
 bin
+*.pyc
+*.swp
+*__pycache__*
